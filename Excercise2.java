@@ -3,7 +3,7 @@
 */
 class Dog{
 	String name;
-	Strig breed;
+	String breed;
 	public Dog(String name,String breed)
 	{
 		this.name = name;
@@ -31,8 +31,8 @@ class Excercise2{
 		puppy.setBreed("Aseel");
 		julie.setName("julie");
 		julie.setBreed("Koli");
-		System.out.print(julie.getName+" "+Julie.getBreed);
-		System.out.print(puppy.getName+" "+puppy.getBreed);
+		System.out.print(julie.getName()+" "+julie.getBreed());
+		System.out.print(puppy.getName()+" "+puppy.getBreed());
 
 	}
 }

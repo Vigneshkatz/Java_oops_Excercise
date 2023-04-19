@@ -19,7 +19,7 @@ class Excercise3{
 	public static void main(String[] args){
 		Circle c = new Circle();
 		c.radius = 4;
-		System.out.println("radius is"+c.area());
-		System.out.ptintln("circumference is "+c.circumference());
+		System.out.println("radius is "+c.area());
+		System.out.println("circumference is "+c.circumference());
 		}
 	}
