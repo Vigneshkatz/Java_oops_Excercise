@@ -16,7 +16,7 @@ class Manager extends Employee{
 }
 class Clerk extends Employee{
 	int calculateSalary() {
-		return salary *2;
+		return salary * 23;
 	}
 }
 
