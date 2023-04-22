@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e6081f-1ebb-4a85-86ed-78dcb2709bf1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_oops_Excercise-ecplise/src/exception/Try.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaworkspace.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Libimplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/thiskeyImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_oops_Excercise-ecplise/.project" beforeDir="false" afterPath="$PROJECT_DIR$/Java_oops_Excercise-ecplise/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/NestedTry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaworkspace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaworkspace/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

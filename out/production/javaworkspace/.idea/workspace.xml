@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="00e6081f-1ebb-4a85-86ed-78dcb2709bf1" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_oops_Excercise-ecplise/src/exception/Try.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/javaworkspace.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/oops/Book.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/oops/Libimplementation.java" afterDir="false" />
@@ -58,5 +59,16 @@
       <updated>1682124443218</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oops/Libimplementation.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
