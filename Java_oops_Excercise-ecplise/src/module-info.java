@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author katziio
+ *
+ */
+module MountBlue {
+}
