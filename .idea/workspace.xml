@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e6081f-1ebb-4a85-86ed-78dcb2709bf1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exception/NestedTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/Impsuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/Usingsuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generics/CustomContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generics/ImpCustomContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Downcasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/ImpSuper1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/Upcasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/UsingSuper1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javaworkspace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaworkspace/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -37,7 +44,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/katziio/Desktop/javaKoans&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,6 +66,21 @@
           <url>file://$PROJECT_DIR$/oops/Libimplementation.java</url>
           <line>18</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/exception/Impsuper.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oops/ImpSuper1.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oops/Downcasting.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
