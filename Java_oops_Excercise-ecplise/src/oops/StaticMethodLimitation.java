@@ -1,7 +1,8 @@
 package oops;
 
 class accessInstanceVariableOrMethod{
-	private int x;
+	int x;
+	static int j = 0;
 	void setX(int x)
 	{
 		this.x = x;
@@ -9,6 +10,9 @@ class accessInstanceVariableOrMethod{
 	public static void printX()
 	{
 //		System.out.println(x);
+	}
+	public static void printJ(){
+		System.out.println(j);
 	}
 }
 class OverridingSuperclass{
